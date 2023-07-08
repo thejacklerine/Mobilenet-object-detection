@@ -1,0 +1,9 @@
+Deepstreem : https://developer.nvidia.com/deepstream-sdk
+tao toolkit: https://developer.nvidia.com/tao-toolkit
+malesiya tao kit case study: https://blogs.nvidia.com/blog/2022/05/09/ai-malaysia-highways/
+tao toolkit with deepstreem : https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_TAO_integration.html
+multi camera detectio : https://developer.nvidia.com/blog/multi-camera-large-scale-iva-deepstream-sdk/
+youtue source: https://www.youtube.com/watch?v=4nV-GtqggEw
+	https://www.youtube.com/watch?v=uOvanU4xBVo
+applying inference(deviding video feed according to region of interest): https://developer.nvidia.com/blog/applying-inference-over-specific-frame-regions-with-nvidia-deepstream/
+anomally detection: https://github.com/NVIDIA-AI-IOT/deepstream_360_d_smart_parking_application/tree/master/stream
